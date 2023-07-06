@@ -35,6 +35,6 @@ public class Employee {
 	
 	@GetMapping("/welcome")
 	public String getGreetings() {
-		return "<h1>Welcome to Dubai.....Habibi</h1>";
+		return "<h1>Welcome to Java World</h1>";
 	}
 }
